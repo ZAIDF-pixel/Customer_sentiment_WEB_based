@@ -5,3 +5,4 @@ matplotlib==3.11.1
 nltk==3.9.2
 pandas==2.3.3
 scikit-learn==1.7.2
+gunicorn
